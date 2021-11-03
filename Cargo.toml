@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "app/my-app",
+    "lib/*"
+]
+default-members = ["app/my-app"]
